@@ -28,4 +28,13 @@ Because some of the data was not in the correct data type, I had utilized the as
 
 # Analysis
 ## How many months exist on Mars?
+<img width="434" alt="Screenshot 2023-12-19 at 2 33 04 PM" src="https://github.com/samkimmmm/module_11_challenge/assets/135805393/e98b9eac-faca-4fdb-9225-23f02adb38e5">
 
+## How many Martian (and not Earth) days worth of data exist on the scraped dataset?
+<img width="426" alt="Screenshot 2023-12-19 at 2 33 32 PM" src="https://github.com/samkimmmm/module_11_challenge/assets/135805393/5b279ad3-428f-464d-9e5b-fa1e6e53ca49">
+
+## What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
+  * Find the average minimum daily temperature for all of the months.
+    <img width="503" alt="Screenshot 2023-12-19 at 2 35 01 PM" src="https://github.com/samkimmmm/module_11_challenge/assets/135805393/fe5feae2-db7a-47ed-9e20-25180fe526ed">
+  * Plot the results as a bar chart.
+    <img width="629" alt="Screenshot 2023-12-19 at 2 35 42 PM" src="https://github.com/samkimmmm/module_11_challenge/assets/135805393/669c20b0-0020-49da-b1ee-de2bbbf6c5dc">
