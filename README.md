@@ -1,4 +1,4 @@
-# Mars Web-Scraping
+# Mars Web-Scrape
 
 # Overview
 In this challenge, I completed a full web-scrape and data analysis.
