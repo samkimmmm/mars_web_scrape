@@ -1,7 +1,7 @@
 # Mars Web-Scrape
 
 # Overview
-In this challenge, I completed a full web-scrape and data analysis.
+In this challenge, I completed a full web-scrape of the [Mars news site](https://static.bc-edx.com/data/web/mars_news/index.html) to uncover and analyze planet's weather.
 
 # Technologies
 * Splinter
